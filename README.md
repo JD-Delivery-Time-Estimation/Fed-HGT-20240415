@@ -1,1 +1,1 @@
-# Fed-HGT-20240415
+# **Fed-HGT**: **Fed**erated **H**eterogeneous **G**raph **T**ransformer for Full-link Delivery Time Estimation
